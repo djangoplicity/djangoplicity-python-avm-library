@@ -194,6 +194,10 @@ class AVMEmail( AVMString ):
 		
 		:return: String (UTF-8)
 		"""
+		# Skip the email validation to empty values
+		if not value:
+			return ''
+
 		if not (isinstance(value, str) or isinstance(value, unicode)):
 			raise TypeError("Value is not a string or unicode.") 
 		
