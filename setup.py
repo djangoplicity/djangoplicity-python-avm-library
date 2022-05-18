@@ -43,7 +43,7 @@ setup(
 	name='djangoplicity-python-avm-library',
 	version='1.0.3',
 	description='Python AVM Library for working with Astronomy Visualization Metadata.',
-	long_description=open('README.rst.rst').read(),
+	long_description=open('README.rst').read(),
 	author='Amit Kapadia',
 	author_email='akapad@gmail.com',
 	url='https://github.com/djangoplicity/djangoplicity-python-avm-library',
