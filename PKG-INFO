@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: python-avm-library
+Version: 1.0b3
+Summary: Python AVM Library for working with Astronomy Visualization Metadata.
+Home-page: https://github.com/djangoplicity/djangoplicity-python-avm-library/
+Author: Amit Kapadia
+Author-email: akapad@gmail.com
+License: New BSD License
+Description: A module for parsing, manipulating, and serializing Astronomy Visualization Metadata in the XMP format. 
+Platform: UNKNOWN
